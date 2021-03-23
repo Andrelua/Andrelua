@@ -1,5 +1,5 @@
 ### Hi, what's up? 👋
-### I'ḿ André Luan !! and i like to learn, that's why i live studying and improving myself.
+### I'm André Luan !! and i like to learn, that's why i live studying and improving myself.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrelua&layout=compact&bg_color=red)](https://github.com/anuraghazra/github-readme-stats)
 
